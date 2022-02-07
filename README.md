@@ -1,4 +1,9 @@
-## Olá , Eu sou Gabriel Mina
+<p align="center">
+<img src="header.svg" />
+</p>
+
+&nbsp;
+
  <div style="display:flex">
  <div>
   <a href="https://github.com/gabrielmina118">
